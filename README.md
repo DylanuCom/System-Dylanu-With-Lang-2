@@ -113,7 +113,7 @@ php artisan serve
 
 <b>12- ease to search in relations table using yajra datatable</p>
 <p>
-    <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/master/photos/users.png" alt="users page">
+    <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/main/photos/users.png" alt="users page">
 </p>
 
 <b>13- ease to make your custom search</b>
@@ -125,25 +125,25 @@ php artisan serve
 - in {users} folder add `` search.blade.php `` have only inputs without form tag 
 - in Model have scopeFilter in this scope can add all your form conditions
 <p>
-    <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/master/photos/search.png" alt="search page">
+    <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/main/photos/search.png" alt="search page">
 </p>
 
 <p>14- Email System</p>
 <p>
-    <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/master/photos/email-form.png" alt="email-form page">
-    <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/master/photos/email-body.png" alt="email-body page">
+    <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/main/photos/email-form.png" alt="email-form page">
+    <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/main/photos/email-body.png" alt="email-body page">
 </p>
 
 <p>15- Languages</p>
 - An easy way to active or disabled a language
 <p>
-    <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/master/photos/lang.png" alt="Languages page">
+    <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/main/photos/lang.png" alt="Languages page">
 </p>
 
 <p>16- New page to list lang files</p>
 - can create or edit for language file keys
 <p>
-    <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/master/photos/translation-page.png" alt="email-form page">
+    <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/main/photos/translation-page.png" alt="email-form page">
     <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/main/photos/edit-translation.png" alt="email-body page">
     <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/main/photos/create-translation.png" alt="email-body page">
 </p>
