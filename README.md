@@ -144,8 +144,8 @@ php artisan serve
 - can create or edit for language file keys
 <p>
     <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/master/photos/translation-page.png" alt="email-form page">
-    <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/master/photos/edit-translation.png" alt="email-body page">
-    <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/master/photos/create-translation.png" alt="email-body page">
+    <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/main/photos/edit-translation.png" alt="email-body page">
+    <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/main/photos/create-translation.png" alt="email-body page">
 </p>
 
 
