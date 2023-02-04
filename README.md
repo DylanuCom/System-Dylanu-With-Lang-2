@@ -45,7 +45,7 @@ php artisan serve
 
 <b>1- Login Page</b>
 <p>
-    <img src="[https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/master/photos/login.png](https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/main/photos/login.png)" alt="login page">
+    <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/main/photos/login.png" alt="login page">
 </p>
 
 <b>2- Dashboard Page</b>
