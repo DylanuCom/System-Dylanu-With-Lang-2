@@ -1,11 +1,11 @@
 ## Make clone to project
 ```
-git clone https://github.com/MahmoudKon/new_laravel_9.git
+git clone https://github.com/DylanuCom/System-Dylanu-With-Lang-2.git
 ```
 
 ## Go inside the project
 ```
-cd  new_laravel_9
+cd  System-Dylanu-With-Lang-2
 ```
 
 ## Create database
