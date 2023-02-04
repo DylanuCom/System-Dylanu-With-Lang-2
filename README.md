@@ -108,7 +108,7 @@ php artisan serve
 - when input is check for route in role, then role can use this route </p>
 <p>
     <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/main/photos/assign-role-form.png" alt="assign-role-form page">
-    <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/master/photos/assign.png" alt="assign page">
+    <img src="https://github.com/DylanuCom/System-Dylanu-With-Lang-2/blob/main/photos/assign.png" alt="assign page">
 </p>
 
 <b>12- ease to search in relations table using yajra datatable</p>
